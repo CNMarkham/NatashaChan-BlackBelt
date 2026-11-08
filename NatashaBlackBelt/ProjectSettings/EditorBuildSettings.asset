@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SpawnIn.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/School.unity
+    guid: 5b34a4092b443f24097c3c7177a7fca5
+  - enabled: 1
+    path: Assets/Scenes/Mirror maze.unity
+    guid: 193e3b4933dae5c468c182a34771b0d4
+  - enabled: 1
+    path: Assets/Scenes/Cottage.unity
+    guid: 10f7d4d485df84945b91bd2fab6f2d0c
   m_configObjects: {}
